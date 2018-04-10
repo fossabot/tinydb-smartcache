@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmsiemens%2Ftinydb-smartcache.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmsiemens%2Ftinydb-smartcache?ref=badge_shield)
+
 tinydb-smartcache
 ^^^^^^^^^^^^^^^^^
 
@@ -60,3 +62,7 @@ Changelog
    :target: https://coveralls.io/r/msiemens/tinydb-smartcache
 .. |Version| image:: http://img.shields.io/pypi/v/tinydb-smartcache.svg?style=flat-square
    :target: https://pypi.python.org/pypi/tinydb-smartcache/
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmsiemens%2Ftinydb-smartcache.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmsiemens%2Ftinydb-smartcache?ref=badge_large)
